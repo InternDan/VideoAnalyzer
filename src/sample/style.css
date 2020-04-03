@@ -1,0 +1,79 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 17, 2018, 9:17:56 PM
+    Author     : buffa
+*/
+
+.scroll-pane > .viewport {
+   -fx-background-color: linear-gradient(#EA7CC4,#A10D6E);
+}
+
+.scroll-pane {
+   -fx-background-color: linear-gradient(#EA7CC4,#A10D6E);
+}
+
+.BG-Button{
+    -fx-background-color: #6633ff 
+}
+
+.BG-Right{
+    -fx-background-color: linear-gradient(#EA7CC4,#A10D6E)
+}
+
+.BG-Left{
+    -fx-background-color: linear-gradient(#EA7CC4,#A10D6E)
+}
+
+.BG-Transparent{
+    -fx-background-color: transparent;
+}
+
+.track{
+-fx-background-color: transparent;
+ -fx-border-color:transparent;
+ -fx-background-radius: 1em;
+}
+
+.thumb{
+-fx-background-color: rgb(211,211,211);
+ }
+
+.decrement-arrow{
+-fx-shape: "M 0 0 L 4 8 L 8 0 Z";
+ -fx-background-color: rgb(211,211,211);
+ -fx-padding: 0.25em;
+ -fx-rotate: 90;
+}
+.decrement-button{
+-fx-background-color:transparent;
+ -fx-background-radius: 1em;
+ -fx-padding: 5;
+}
+
+.increment-arrow{
+-fx-shape: "M 0 0 L 4 8 L 8 0 Z";
+ -fx-background-color: rgb(211,211,211);
+ -fx-padding: 0.25em;
+ -fx-rotate: -90;
+}
+
+.increment-button{
+-fx-background-color:transparent;
+ -fx-background-radius: 1em;
+ -fx-padding: 5;
+}
+
+.track-background{
+-fx-background-color: transparent;
+ -fx-background-insets: 0;
+ -fx-background-radius: 1em;
+}
+
+.scroll-bar{
+    -fx-background-color: rgb(96,96,96);
+    -fx-background-radius: 1em;
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="JavaFXApp.jnlp">
+  <information>
+    <title>JavaFXApp</title>
+    <vendor>Unknown</vendor>
+    <description>JavaFXApp</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Apache\commons-io-2.6.jar" size="214788" download="eager" />
+    <jar href="Audio\TarsosDSP-2.4-bin.jar" size="268706" download="eager" />
+    <jar href="JavaFXApp.jar" size="89872862" download="eager" />
+    <jar href="OpenCVDistrib\mac\opencv-345.jar" size="707527" download="eager" />
+    <jar href="OpenCVDistrib\mac\opencv-401.jar" size="705096" download="eager" />
+    <jar href="OpenCVDistrib\opencv-343.jar" size="464823" download="eager" />
+    <jar href="OpenCVDistrib\opencv-345.jar" size="467669" download="eager" />
+    <jar href="OpenCVDistrib\opencv-401.jar" size="463059" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="600" height="400" main-class="sample.Main"  name="JavaFXApp" />
+  <update check="background"/>
+</jnlp>

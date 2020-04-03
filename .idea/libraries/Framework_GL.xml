@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Framework-GL">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/Framework-GL-master/Framework-GL-master/examples/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/Framework-GL-master/Framework-GL-master/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
